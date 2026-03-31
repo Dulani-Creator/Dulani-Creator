@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramuthu-creator&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Dulani-Creator&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 
-<br/><br/>
+<br/>
 
 <p align="center">
 
