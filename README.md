@@ -11,7 +11,7 @@
 <p align="center">
 🌱 I’m currently learning <b>Android Development, React, and Full-Stack Development</b><br><br>
 🎓 Undergraduate at <b>Faculty of Computing in Kelaniya</b><br><br>
-💬 Ask me about <b>Java, Python, C++, React, Database Design</b></br></br>
+💬 Ask me about <b>Java, Python,C ,Database Design</b></br></br>
 </p>
 
 ---
